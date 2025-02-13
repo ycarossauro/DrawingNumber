@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawingNumber</string>
+    <string name="drawn_number">SORTEAR NÚMERO</string>
+    <string name="result">Resultado</string>
+</resources>
